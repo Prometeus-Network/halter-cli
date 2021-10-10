@@ -4,24 +4,24 @@ export type AuthorizerDeployment = {
 
 export default {
   goerli: {
-    admin: '0xE0a171587b1Cae546E069A943EDa96916F5EE977',
+    admin: '0x2f64Ac13ad1646Bb45636A7DB8A5AD300327e41F',
   },
   kovan: {
-    admin: '0xE0a171587b1Cae546E069A943EDa96916F5EE977',
+    admin: '0x2f64Ac13ad1646Bb45636A7DB8A5AD300327e41F',
   },
   mainnet: {
-    admin: '0x10A19e7eE7d7F8a52822f6817de8ea18204F2e4f',
+    admin: '0x2f64Ac13ad1646Bb45636A7DB8A5AD300327e41F',
   },
   rinkeby: {
-    admin: '0xE0a171587b1Cae546E069A943EDa96916F5EE977',
+    admin: '0x2f64Ac13ad1646Bb45636A7DB8A5AD300327e41F',
   },
   ropsten: {
-    admin: '0xE0a171587b1Cae546E069A943EDa96916F5EE977',
+    admin: '0x2f64Ac13ad1646Bb45636A7DB8A5AD300327e41F',
   },
   polygon: {
-    admin: '0xd2bD536ADB0198f74D5f4f2Bd4Fe68Bae1e1Ba80',
+    admin: '0x2f64Ac13ad1646Bb45636A7DB8A5AD300327e41F',
   },
   arbitrum: {
-    admin: '0x6207ed574152496c9B072C24FD87cE9cd9E17320',
+    admin: '0x2f64Ac13ad1646Bb45636A7DB8A5AD300327e41F',
   },
 };

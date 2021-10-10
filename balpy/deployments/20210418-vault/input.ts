@@ -19,7 +19,7 @@ export default {
   },
   kovan: {
     Authorizer,
-    weth: '0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1',
+    weth: '0x12164e5366a577D5EF32A4F87152C5552bEc03b0',
     pauseWindowDuration: 3 * MONTH,
     bufferPeriodDuration: MONTH,
   },
