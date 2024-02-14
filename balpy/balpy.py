@@ -65,8 +65,7 @@ class balpy(object):
 
 	# Network parameters
 	networkParams = {
-						"mainnet":	{"id":1,		"blockExplorerUrl":"ftmscan.com","balFrontend":"halter.finance/#/"		},
-						"testnet":	{"id":4002,		"blockExplorerUrl":"testnet.ftmscan.com", "balFrontend":"testnet.halter.finance/#/"	}
+						"testnet":	{"id":168587773,		"blockExplorerUrl":"https://testnet.blastscan.io/", "balFrontend":"testnet.halter.finance/#/"	}
 					};
 
 	# ABIs and Deployment Addresses
